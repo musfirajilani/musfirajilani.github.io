@@ -14,6 +14,10 @@ Education
 * BTech in Electronics Engineering, Aligarh Muslim University, 2012
 * PhD in Computer Science, University College Dublin, Ireland, 2017
 
+Continuing Education
+======
+* Technology Innovation, Harvard University 2022
+* Self Driving Cars, Udacity, 2020
 
 Work experience
 ======
@@ -44,26 +48,15 @@ Skills
   * Python
   * R
 * Communication
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
 * Reviewer of several leading journals in the field of GIS and sensing including ISPRS-IJGIS.
 * Programme Director for all part-time postgraduate courses in Data Analytics at NCI. 
+
+Awards and Accomplishments
+======
+* Selected for Aurora Women in Leadership Development Programme 
+* Irish Research Council, Emabrk Postgraduate Scholarship, 1 of 115 Non-EU Awardees
+* Science Foundation of Ireland, UREKA Award in Robotics, 1 of 10 Global Awardees
+  
