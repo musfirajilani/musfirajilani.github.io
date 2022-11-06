@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTech in Electronics Engineering, Aligarh Muslim University, 2012
+* PhD in Computer Science, University College Dublin, Ireland, 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2009: Intern Researcher
+  * Medical Intelligence and Language Engineering Lab, Indian Institute of Science, Bengaluru, India
+  * Duties included: Kannada OCR Enhancement, Leukoderma Image Analysis
+  * Supervisor: Professor AG Ramakrishnan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2010: Intern Researcher 
+  * Department of Computer Science, Maynooth University, Ireland
+  * Duties included: SLAM for Autnomous Vehicles
+  * Supervisor: Professor Adam Winstansley and Dr Padraig Corcoran
+
+* 2016-2017: Postdoctoral Researcher 
+  * Insight Centre for Data Analytics, Galway University, Ireland
+  * Duties included: Information Technology for Pandemic Resource Planning
+  * Supervisor: Professor Maire Connolly, Professor Jim Duggans, and Dr Conor Hayes
+
+* 2017-2020: Lecturer 
+  * School of Computing, Dublin University, Ireland
+  * Duties included: Lecturing on the MSc in Data Analytics Programme at PNU, Riyadh, KSA
+  * Line Manager: Professor Martin Crane
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Problem Solving
+* Programming
+  * Python
+  * R
+* Communication
 
 Publications
 ======
@@ -56,4 +65,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of several leading journals in the field of GIS and sensing including ISPRS-IJGIS.
+* Programme Director for all part-time postgraduate courses in Data Analytics at NCI. 
