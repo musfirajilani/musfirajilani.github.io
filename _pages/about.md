@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Overview"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Musfira Jilani is an Assistant Professor in Computing at the National College of Ireland. Her journey into the field began during her Electronics Engineering training, where she developed a keen interest in robot navigation and spatial data and mapping. This eventually led her to pursue a Ph.D. in crowdsourced spatial data and automated mapping at the University College Dublin. Following her doctoral studies, Musfira engaged in postdoctoral research focused on spatial health and epidemic modelling at the Insight Centre for Data Analytics at the University of Galway.
+I am an Assistant Professor in Computing at the National College of Ireland where I research and teach data science and AI concepts and their applications. Whilst receiving training as an Electronics Engineer I developed an interest in robot navigation and spatial data mapping, eventually leading me to pursue a Ph.D. in Computer Science at University College Dublin with a focus on automated mapping. Next, I explored the applications of spatial data and mathematical modelling to pandemic preparedness and response as a postdoctoral researcher at the Insight Centre, University of Galway.
 
-Before her current role at the National College of Ireland, Musfira served as a Lecturer in Computing at Dublin City University and contributed to their MSc in Data Analytics programme at Princess Nourah University in Saudi Arabia.
+Before my current role at the National College of Ireland,I also served as a Lecturer in Computing at Dublin City University and worked onground for their MSc in Data Analytics programme at Princess Nourah University in Saudi Arabia.
