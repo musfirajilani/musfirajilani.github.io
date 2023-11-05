@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Dr Musfira Jilani is an Assistant Professor in the School of Computing, National College of Ireland (NCI). She is also the Vice Chair of the IEEE Society for Social Implications of Technology (SSIT)  Global YP chapter.  Musfira’s research focus includes spatio-temporal data analytics with applications to crowdsourced mapping, geo-privacy, urban dynamics, ethics and social good. Musfira has an extensive publication record including book chapters, articles and research papers.
+Musfira Jilani is an Assistant Professor in Computing at the National College of Ireland. Her journey into the field began during her Electronics Engineering training, where she developed a keen interest in robot navigation and spatial data and mapping. This eventually led her to pursue a Ph.D. in crowdsourced spatial data and automated mapping at the University College Dublin. Following her doctoral studies, Musfira engaged in postdoctoral research focused on spatial health and epidemic modelling at the Insight Centre for Data Analytics at the University of Galway.
 
-
-Education/Collaborations
-======
-Musfira holds a PhD in Computer Science from University College Dublin which was funded through the highly competitive Irish Research Council Embark Postgraduate Scholarship programme. She has also been a postdoctoral fellow at the Insight Centre for Data Analytics, School of Engineering and the School of Medicine at the National University of Ireland Galway. Musfira holds strong teaching/research collaboration ties with the School of Computing, University College Dublin, Princess Nourah bint Abdur Rahman University, Riyadh Saudi Arabia and the Aligarh Muslim University, India. 
-
-
-Leadership/Programme Development
-======
-Musfira has significant experience in Programme Development and management. Currently Musfira is the Programme Director for  NCI’s School of Computing MSc in Data Analytics programme and the Programme Development Committee Member for the MSc in Fintech programme. She has also participated in the programme proposal development for various AI/FinTech successful Springboard proposals.   
+Before her current role at the National College of Ireland, Musfira served as a Lecturer in Computing at Dublin City University and contributed to their MSc in Data Analytics programme at Princess Nourah University in Saudi Arabia.
